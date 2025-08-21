@@ -1,0 +1,7 @@
+../Core/Src/game.c:13:17:xorshift32	1
+../Core/Src/game.c:19:16:rand12	1
+../Core/Src/game.c:23:13:all_off	2
+../Core/Src/game.c:27:17:level_interval_ms	3
+../Core/Src/game.c:35:6:game_start	1
+../Core/Src/game.c:57:6:game_tick	6
+../Core/Src/game.c:86:6:game_handle_press	3

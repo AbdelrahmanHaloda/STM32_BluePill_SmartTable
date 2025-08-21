@@ -1,0 +1,8 @@
+../Core/Src/deb.c:18:23:btn_raw	5
+../Core/Src/deb.c:27:6:deb_init	3
+../Core/Src/deb.c:42:20:deb_integrate	6
+../Core/Src/deb.c:55:6:deb_poll_1ms	3
+../Core/Src/deb.c:65:9:deb_sw_is_pressed	2
+../Core/Src/deb.c:69:9:deb_sw_pressed_edge	2
+../Core/Src/deb.c:77:9:deb_btn_is_pressed	2
+../Core/Src/deb.c:81:9:deb_btn_pressed_edge	2

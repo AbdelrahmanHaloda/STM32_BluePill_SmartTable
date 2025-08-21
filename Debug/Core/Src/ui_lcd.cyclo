@@ -1,0 +1,4 @@
+../Core/Src/ui_lcd.c:12:6:lcd_write_line	5
+../Core/Src/ui_lcd.c:31:6:ui_menu_draw	4
+../Core/Src/ui_lcd.c:54:6:ui_game_screen	3
+../Core/Src/ui_lcd.c:73:6:ui_game_summary	3
