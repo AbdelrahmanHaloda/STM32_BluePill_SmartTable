@@ -5,10 +5,6 @@
  *      Author: abdelrahmanhaloda
  */
 
-
-
-/** Put this in the src folder **/
-
 #include "i2c-lcd.h"
 
 extern I2C_HandleTypeDef hi2c1;  // change your handler here accordingly

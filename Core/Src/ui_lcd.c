@@ -6,7 +6,7 @@
  */
 
 #include "ui_lcd.h"
-#include "i2c-lcd.h"   // your working LCD driver
+#include "i2c-lcd.h"
 
 
 void lcd_write_line(int row, const char *s)
@@ -49,7 +49,6 @@ void ui_menu_draw(level_t sel)
 extern void lcd_put_cur(int row, int col);
 extern void lcd_send_string(char *str);
 
-// from earlier step:
 
 void ui_game_screen(level_t sel, uint16_t hits, uint16_t trials, uint32_t ms_per_step)
 {
